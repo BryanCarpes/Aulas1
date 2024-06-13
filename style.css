@@ -7,3 +7,8 @@
 .direita{
     text-align: right;
 }
+
+.cor-solida{
+    background-color: #2E2EFE;
+    color: black;
+}
